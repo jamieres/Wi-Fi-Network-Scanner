@@ -46,6 +46,7 @@ The program may temporarily affect the Wi-Fi connection of the device from which
 
 ## Contributions
 Contributions are welcome. Please open an issue or pull request for any improvements or corrections.
+jamieres-at-gmail-dot-com
 
 ## License
 This project is licensed under the MIT License.
